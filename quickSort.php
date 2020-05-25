@@ -12,7 +12,7 @@ class quickSort
      * Date: 2020/5/25
      * Time: 11:11
      * @param $arr
-     * @return mixed
+     * @return array
      */
     public static function quickSort($arr)
     {
